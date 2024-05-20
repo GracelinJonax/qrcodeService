@@ -4,8 +4,6 @@
 k
 ;src/main/java/com/example/qrcode/controller/Controller.java,d/9/d9b6712bcf93001684aa547d0efde0764cbd3df3
 c
-3src/main/java/com/example/qrcode/dto/qrReadDto.java,5/a/5a10025d08caa167212c61b9c1b9a128b5f213da
-c
 3src/main/java/com/example/qrcode/dto/QrReadDto.java,a/1/a1d474c6cc406bacc0e378fb9fecc2612e2c45d4
 b
 2src/main/java/com/example/qrcode/model/Device.java,6/e/6e41e14f7c80cfa8874b9dde2d9926daedc78770
